@@ -1,3 +1,9 @@
+# Openwater Laser
+
+## Disclaimer
+
+CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. The system described here has not been evaluated by the FDA and is not designed for the treatment or diagnosis of any disease. It is provided AS-IS, with no warranties. User assumes all liability and responsibility for identifying and mitigating risks associated with using this software.
+
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
@@ -32,7 +38,3 @@ Before contributing, please read our [Contributing Guidelines](CONTRIBUTING.md).
 ## License
 
 opw_laser is licensed under the GNU Affero General Public License v3.0. See [LICENSE](LICENSE) for details.
-
-## Investigational Use Only
-CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. opw_laser has *not* been evaluated by the FDA and is not designed for the treatment or diagnosis of any disease. It is provided AS-IS, with no warranties. User assumes all liability and responsibility for identifying and mitigating risks associated with using this software.
-
